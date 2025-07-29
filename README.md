@@ -17,7 +17,7 @@ Um simples gerenciador de tarefas feito inteiramente em **Java puro**, rodando n
 
 - Java 8+
 - Programação orientada a objetos (POO)
-- Manipulação de arquivos `.txt` ou `.json`
+- Manipulação de arquivos `.txt`
 - Coleções Java (`ArrayList`)
 - Tratamento de exceções
 
