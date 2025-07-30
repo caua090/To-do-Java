@@ -5,8 +5,8 @@ import java.util.*;
 
 public class ArquivoText {
     //local onde salva o arquivo
-    private final String nomeArquivo = "D:\\backUp\\java\\to-do-list\\dados\\dados.txt";
-    private final String nomeArquivoConcluido = "D:\\backUp\\java\\to-do-list\\dados\\dados_concluidos.txt";
+    private final String nomeArquivo = "dados\\dados.txt";
+    private final String nomeArquivoConcluido = "dados\\dados_concluidos.txt";
 
 
     //variavel que recebe os dados de tarefaPendente
